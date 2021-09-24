@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Thread Id="1" TotalElapsedMilliseconds="79">
+    <Method Name="DemoMethod1" Class="DemoClass1" ElapsedMilliseconds="23">
+      <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="11">
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="5">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+        </Method>
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="5">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        </Method>
+      </Method>
+      <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="11">
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="5">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        </Method>
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="5">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        </Method>
+      </Method>
+    </Method>
+    <Method Name="DemoMethod1" Class="DemoClass1" ElapsedMilliseconds="56">
+      <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="13">
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="7">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+        </Method>
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="6">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+        </Method>
+      </Method>
+      <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="34">
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="6">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        </Method>
+        <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="28">
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+          <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="22" />
+        </Method>
+      </Method>
+    </Method>
+  </Thread>
+  <Thread Id="4" TotalElapsedMilliseconds="45">
+    <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="12">
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="6">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+      </Method>
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="6">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+      </Method>
+    </Method>
+    <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="33">
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="5">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+      </Method>
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="27">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="22" />
+      </Method>
+    </Method>
+  </Thread>
+  <Thread Id="5" TotalElapsedMilliseconds="46">
+    <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="13">
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="6">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+      </Method>
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="6">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+      </Method>
+    </Method>
+    <Method Name="DemoMethod2" Class="DemoClass2" ElapsedMilliseconds="33">
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="5">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+      </Method>
+      <Method Name="DemoMethod3" Class="DemoClass2" ElapsedMilliseconds="28">
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="1" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="2" />
+        <Method Name="DemoMethod4" Class="DemoClass2" ElapsedMilliseconds="22" />
+      </Method>
+    </Method>
+  </Thread>
+</TraceResult>

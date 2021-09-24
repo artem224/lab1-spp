@@ -1,0 +1,492 @@
+{
+  "ThreadsInfo": [
+    {
+      "Id": 1,
+      "TotalElapsedMilliseconds": 79,
+      "Methods": [
+        {
+          "Name": "DemoMethod1",
+          "Class": "DemoClass1",
+          "ElapsedMilliseconds": 23,
+          "Methods": [
+            {
+              "Name": "DemoMethod2",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 11,
+              "Methods": [
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 5,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 5,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "DemoMethod2",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 11,
+              "Methods": [
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 5,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 5,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "DemoMethod1",
+          "Class": "DemoClass1",
+          "ElapsedMilliseconds": 56,
+          "Methods": [
+            {
+              "Name": "DemoMethod2",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 13,
+              "Methods": [
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 7,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 6,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "DemoMethod2",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 34,
+              "Methods": [
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 6,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "DemoMethod3",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 28,
+                  "Methods": [
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 1,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 2,
+                      "Methods": []
+                    },
+                    {
+                      "Name": "DemoMethod4",
+                      "Class": "DemoClass2",
+                      "ElapsedMilliseconds": 22,
+                      "Methods": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "TotalElapsedMilliseconds": 45,
+      "Methods": [
+        {
+          "Name": "DemoMethod2",
+          "Class": "DemoClass2",
+          "ElapsedMilliseconds": 12,
+          "Methods": [
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 6,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                }
+              ]
+            },
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 6,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "DemoMethod2",
+          "Class": "DemoClass2",
+          "ElapsedMilliseconds": 33,
+          "Methods": [
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 5,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                }
+              ]
+            },
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 27,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 22,
+                  "Methods": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "TotalElapsedMilliseconds": 46,
+      "Methods": [
+        {
+          "Name": "DemoMethod2",
+          "Class": "DemoClass2",
+          "ElapsedMilliseconds": 13,
+          "Methods": [
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 6,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                }
+              ]
+            },
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 6,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "DemoMethod2",
+          "Class": "DemoClass2",
+          "ElapsedMilliseconds": 33,
+          "Methods": [
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 5,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                }
+              ]
+            },
+            {
+              "Name": "DemoMethod3",
+              "Class": "DemoClass2",
+              "ElapsedMilliseconds": 28,
+              "Methods": [
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 1,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 2,
+                  "Methods": []
+                },
+                {
+                  "Name": "DemoMethod4",
+                  "Class": "DemoClass2",
+                  "ElapsedMilliseconds": 22,
+                  "Methods": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
