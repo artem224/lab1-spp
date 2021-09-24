@@ -1,0 +1,12 @@
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\bin\Debug\net5.0\TracerLib.deps.json
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\bin\Debug\net5.0\TracerLib.dll
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\bin\Debug\net5.0\ref\TracerLib.dll
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\bin\Debug\net5.0\TracerLib.pdb
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.csprojAssemblyReference.cache
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.AssemblyInfoInputs.cache
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.AssemblyInfo.cs
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.csproj.CoreCompileInputs.cache
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.dll
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\ref\TracerLib.dll
+C:\Users\gaite\Desktop\SPP_1-master\TracerLib\obj\Debug\net5.0\TracerLib.pdb
